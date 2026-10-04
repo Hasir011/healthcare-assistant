@@ -14,7 +14,7 @@
 
 ## 🌐 Live Demo
 
-🔗 **Live Deployment:** `https://<your-username>.github.io/healthcare-assistant/`  
+🔗 **Live Deployment:** `https://hasir011.github.io/healthcare-assistant/`  
 *(Replace `<your-username>` with your GitHub username once deployed)*
 
 ---
